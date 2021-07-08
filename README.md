@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @annamoonfairy
+- 👀 I’m interested in analytics
+- 🌱 I’m currently learning Python
